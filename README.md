@@ -7,7 +7,7 @@ A Python-based network sniffer that captures and analyzes live network traffic i
 ## Requirements
 
 - Python 3.8+
-- [Npcap](https://npcap.com/#download) (Windows only — install with WinPcap API-compatible mode checked)
+- [Npcap](https://npcap.com/#download) (Windows only - install with WinPcap API-compatible mode checked)
 - Scapy library
 
 ## Installation
@@ -68,5 +68,5 @@ Protocol: ICMP (ping)
 This tool is intended for educational purposes only. Only use it on networks and systems you own or have explicit permission to monitor. Unauthorized packet sniffing is illegal.
 
 ## Author
-
-Built as part of a Cybersecurity Internship — Month 1 Project
+Areeb Ahsan
+Built as part of a Cybersecurity Internship at Arch Technologies - 1st Project
