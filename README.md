@@ -68,5 +68,5 @@ Protocol: ICMP (ping)
 This tool is intended for educational purposes only. Only use it on networks and systems you own or have explicit permission to monitor. Unauthorized packet sniffing is illegal.
 
 ## Author
-Areeb Ahsan
-Built as part of a Cybersecurity Internship at Arch Technologies - 1st Project
+- Areeb Ahsan
+- Built as part of a Cybersecurity Internship at Arch Technologies - 1st Project
